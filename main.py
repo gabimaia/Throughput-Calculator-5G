@@ -3,7 +3,7 @@ from calc_class import calculadora
 
 
 root = Tk()
-root.title("Calculadora de Throughput do NR")
+root.title("NR Throughput Calculator")
 
 frame_calc = calculadora(root)
 frame_calc.grid()
